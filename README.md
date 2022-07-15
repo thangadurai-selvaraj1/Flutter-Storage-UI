@@ -1,16 +1,9 @@
-# filemanagerui
 
-A new Flutter project.
+# File Manager UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design
+<div class="row"> 
+<img src="https://user-images.githubusercontent.com/40790801/179237344-b36cb46e-1eb3-4726-86fc-0b4331ba40b5.png" width="225" height="450">
+<img src="https://user-images.githubusercontent.com/40790801/179237397-1558ea94-7a1c-41cb-b6ab-ed01bd876d6c.png" width="225" height="450">
+<img src="https://user-images.githubusercontent.com/40790801/179237428-92a4ae2a-0c83-4b84-b568-ba4822cb3d05.png" width="225" height="450">
+</div>
